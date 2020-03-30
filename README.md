@@ -49,7 +49,10 @@ Both of these challenges encompasses a real-world situation where your newfound 
   Greatest Decrease in Profits: Sep-2013 ($-2196167)
   ```
 
-![Revenue](Images/first_screen_shot.png)
+![OutPut](Images/first_screen_shot.png)
+
+![OutPut](output.txt)
+
 
 * In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
