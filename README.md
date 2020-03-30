@@ -51,7 +51,7 @@ Both of these challenges encompasses a real-world situation where your newfound 
 
 ![OutPut](Images/first_screen_shot.png)
 
-** output file is located at _output.txt_ **
+##output file is located at _output.txt_##
 
 * In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
