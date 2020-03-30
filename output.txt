@@ -1,0 +1,6 @@
+Total 38382578
+Total profit 45710004
+Total loss -7327426
+Total count is 86
+Greatest Increase in Profits: Feb-2012 ($1926159)
+Grcat eatest Decrease in Profits: Sep-2013 ($-2196167)
