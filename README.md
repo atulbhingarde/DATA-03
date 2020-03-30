@@ -51,8 +51,7 @@ Both of these challenges encompasses a real-world situation where your newfound 
 
 ![OutPut](Images/first_screen_shot.png)
 
-![OutPut](output.txt)
-
+![new](output.txt)
 
 * In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
